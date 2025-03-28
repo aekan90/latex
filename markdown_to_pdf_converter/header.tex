@@ -1,4 +1,12 @@
 \usepackage{polyglossia}
 \setmainlanguage{turkish}
 \setotherlanguage{arabic}
-\newfontfamily\arabicfont[Script=Arabic]{Amiri} 
+\newfontfamily\arabicfont[Script=Arabic]{Amiri}
+\newfontfamily\turkishfont{Times New Roman}
+\usepackage{bidi}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt} 
