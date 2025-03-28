@@ -4,66 +4,38 @@ import shutil
 import subprocess
 from pathlib import Path
 
-def ensure_directory_exists(directory):
+def create_dir_if_not_exists(dir_path):
     """Create directory if it doesn't exist."""
-    if not os.path.exists(directory):
-        os.makedirs(directory)
+    if not os.path.exists(dir_path):
+        os.makedirs(dir_path)
 
-def compile_latex_to_pdf(tex_file, project_dir):
-    """Compile LaTeX file to PDF using xelatex."""
-    # Convert paths to absolute paths
-    tex_file = os.path.abspath(tex_file)
-    project_dir = os.path.abspath(project_dir)
-    
-    # Get directories
-    tex_dir = os.path.dirname(tex_file)
-    pdf_dir = os.path.join(project_dir, 'TexDosyalari', 'PdfFiles')
-    temp_dir = os.path.join(project_dir, 'TexDosyalari', 'TempFiles')
-    
-    # Ensure directories exist
-    for directory in [pdf_dir, temp_dir]:
-        ensure_directory_exists(directory)
-    
-    # Get base name without extension
-    base_name = os.path.splitext(os.path.basename(tex_file))[0]
-    
+def compile_tex_to_pdf(tex_file_path, output_dir):
+    """Compile TEX file to PDF using XeLaTeX."""
     try:
+        # Create output directory if it doesn't exist
+        create_dir_if_not_exists(output_dir)
+        
+        # Get the base name of the tex file (without extension)
+        base_name = os.path.splitext(os.path.basename(tex_file_path))[0]
+        
+        # Change to the directory containing the tex file
+        os.chdir(os.path.dirname(tex_file_path))
+        
         # Run xelatex twice to resolve references
         for _ in range(2):
-            result = subprocess.run([
+            subprocess.run([
                 'xelatex',
                 '-interaction=nonstopmode',
-                f'-output-directory={temp_dir}',
-                tex_file
-            ], capture_output=True, text=True, cwd=tex_dir)
-            
-            if result.returncode != 0:
-                print("Error during LaTeX compilation:")
-                print(result.stdout)
-                print(result.stderr)
-                return False
+                '-output-directory=' + output_dir,
+                tex_file_path
+            ], check=True)
         
-        # Move PDF to output directory
-        pdf_file = os.path.join(temp_dir, f"{base_name}.pdf")
-        if os.path.exists(pdf_file):
-            output_pdf = os.path.join(pdf_dir, f"{base_name}.pdf")
-            shutil.move(pdf_file, output_pdf)
-            print(f"Created PDF file: {output_pdf}")
-        else:
-            print("PDF file was not created")
-            return False
+        print(f"Successfully compiled {tex_file_path} to PDF")
         
-        # Clean up temporary files
-        for ext in ['.aux', '.log', '.out', '.toc']:
-            temp_file = os.path.join(temp_dir, base_name + ext)
-            if os.path.exists(temp_file):
-                os.remove(temp_file)
-        
-        return True
-        
+    except subprocess.CalledProcessError as e:
+        print(f"Error compiling {tex_file_path}: {str(e)}")
     except Exception as e:
-        print(f"Error during compilation: {e}")
-        return False
+        print(f"Unexpected error: {str(e)}")
 
 def main():
     if len(sys.argv) != 3:
@@ -77,12 +49,7 @@ def main():
         print(f"Error: LaTeX file {tex_file} does not exist")
         sys.exit(1)
     
-    success = compile_latex_to_pdf(tex_file, project_dir)
-    if success:
-        print("PDF compilation completed successfully!")
-    else:
-        print("PDF compilation failed!")
-        sys.exit(1)
+    compile_tex_to_pdf(tex_file, project_dir)
 
 if __name__ == "__main__":
     main()

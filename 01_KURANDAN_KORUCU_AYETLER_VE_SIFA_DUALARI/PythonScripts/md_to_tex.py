@@ -18,16 +18,26 @@ def clean_filename(filename):
 
 def create_latex_header():
     """Create LaTeX document header with necessary packages."""
-    return r"""\documentclass[12pt,a4paper]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
+    return r"""\documentclass[10pt,a4paper]{article}
+\usepackage{fontspec}
+\usepackage{polyglossia}
 \usepackage{geometry}
+\usepackage{setspace}
+\usepackage{amsmath}
+\usepackage{amssymb}
 
-\geometry{margin=2.5cm}
+\setmainlanguage{turkish}
+\setotherlanguage{arabic}
+\newfontfamily\arabicfont[Script=Arabic]{Amiri}
+\newfontfamily\turkishfont{Times New Roman}
+
+\geometry{margin=1.5cm}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{1em}
+\setlength{\parskip}{0.5em}
+\setstretch{0.9}
 
 \begin{document}
+\turkishfont
 """
 
 def create_latex_footer():
@@ -40,7 +50,7 @@ def convert_arabic_text(text):
     """Convert Arabic text blocks to LaTeX format."""
     def replace_arabic(match):
         arabic = match.group(1)
-        return f"\\begin{{arab}}\n{arabic}\n\\end{{arab}}"
+        return f"\\textarabic{{{arabic}}}"
     
     # Find Arabic text blocks (assuming they're between specific markers)
     text = re.sub(r'`([^`]*[\u0600-\u06FF][^`]*)`', replace_arabic, text)
