@@ -1,0 +1,3 @@
+# KUR'AN'DAN KORUCU AYETLER VE ŞİFA DUALARI
+KORUMA VE ŞİFA İÇİN SEÇİLMİŞ AYETLER
+© 2024 Tüm hakları saklıdır.

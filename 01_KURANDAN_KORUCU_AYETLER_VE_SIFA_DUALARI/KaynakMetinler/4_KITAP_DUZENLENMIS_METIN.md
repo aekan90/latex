@@ -1,0 +1,1049 @@
+`# KUR'AN'DAN KORUCU AYETLER VE ŞİFA DUALARI`
+
+`KORUMA VE ŞİFA İÇİN SEÇİLMİŞ AYETLER`  
+`© 2024 Tüm hakları saklıdır.`
+
+`# İÇİNDEKİLER`
+
+`## 1. ÖNSÖZ`  
+`### 1.1. Kitabın Amacı`  
+`### 1.2. Kullanım Rehberi`
+
+`## 2. GİRİŞ`  
+`### 2.1. Önemli Notlar`  
+`### 2.2. Açıklama`
+
+`## 3. PRATİK KULLANIM REHBERİ`  
+`### 3.1. Günlük Okunacak Dualar`  
+`### 3.2. Özel Durumlar İçin Dualar ve Uygulamalar`  
+`### 3.3. Muska Kullanımı`  
+`#### 3.3.1. Koruma Muskası`  
+`#### 3.3.2. Şifa Muskası`  
+`#### 3.3.3. Huzur Muskası`  
+`#### 3.3.4. Bereket Muskası`  
+`#### 3.3.5. Aile Saadeti Muskası`  
+`#### 3.3.6. Rızık Muskası`  
+`#### 3.3.7. Nazar ve Haset Muskası`  
+`#### 3.3.8. Evlilik Muskası`  
+`### 3.4. Özel Günler ve Tekrarlar`  
+`### 3.5. Zor Durumlar İçin Özel Uygulamalar`  
+`### 3.6. Hanefi-Maturidi Mezhebine Göre Özel Uygulamalar`  
+`### 3.7. Günlük Zikir Programı`
+
+`## 4. TELAFFUZ VE SURELERİN ÖĞRENİMİ`  
+`### 4.1. Temel Harflerin Telaffuzu`  
+`### 4.2. Surelerin Okunuşu`
+
+`## 5. TEMEL SURELER`  
+`### 5.1. Fatiha Suresi (1:1–7)`  
+`### 5.2. Ayet-el-Kursi (Bakara 255)`  
+`### 5.3. İhlas Suresi (112:1-4)`  
+`### 5.4. Felak Suresi (113:1-5)`  
+`### 5.5. Nas Suresi (114:1-6)`  
+`### 5.6. İnşirah Suresi (94:1-8)`
+
+`## 6. KORUMA VE ŞİFA AYETLERİ`  
+`### 6.1. Bakara 285-286`  
+`### 6.2. İsra 82`  
+`### 6.3. Şuara 80-81`  
+`### 6.4. Müminun 98-99`  
+`### 6.5. Furkan 74-75`  
+`### 6.6. Rad 28`  
+`### 6.7. İnşirah 5-6`  
+`### 6.8. Al-İmran 103`  
+`### 6.9. İbrahim 7`  
+`### 6.10. Taha 124-126`  
+`### 6.11. Yasin 82 ve Rahman 33`  
+`### 6.12. Fussilet 44-46`
+
+`## 7. GÜNLÜK ZİKİRLER`  
+`### 7.1. Sübhanallahi ve bihamdihi`  
+`### 7.2. La ilahe illallah`  
+`### 7.3. Allahümme salli ala Muhammed`  
+`### 7.4. Estağfirullah`  
+`### 7.5. La havle vela kuvvete illa billah`
+
+`## 8. ÖZEL DURUMLAR İÇİN ZİKİRLER`  
+`### 8.1. Euzü billahi mineşşeytanirracim`  
+`### 8.2. Hasbünallahü ve ni'mel vekil`  
+`### 8.3. La ilahe illa ente sübhaneke inni küntü minezzalimin`  
+`### 8.4. Euzü biizzetillahi ve kudretihi min şerri ma ecidü ve uhaziru`
+
+`## 9. KAPANIŞ`
+
+`## 10. KAYNAKÇA`  
+`### 10.1. Kur'an-ı Kerim ve Mealleri`  
+`### 10.2. Hadis Kaynakları`  
+`### 10.3. Fıkıh Kaynakları`  
+`### 10.4. Tefsir Kaynakları`  
+`### 10.5. Tasavvuf Kaynakları`  
+`### 10.6. Modern Kaynaklar`  
+`### 10.7. İnternet Kaynakları`
+
+`---`
+
+`# 1. ÖNSÖZ`
+
+`Bu bölümde, kitabın temel amacı ve kullanım rehberi ele alınacaktır. Kur'an ve Sünnet'e dayalı bir yaklaşımla hazırlanan bu eser, manevi şifa ve korunma yollarını açıklamaktadır.`
+
+`*Hadis-i Şerif:* Ey Ümmetim! Size iki emanet bırakıyorum: Allah'ın Kitabı ve benim sünnetim. Bu ikisine sımsıkı sarıldığınız sürece asla sapıtmazsınız. _(Müslim, Hac, 147)_`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde kitabın temel amacı ve kullanım prensipleri açıklanmıştır. Kur'an ve Sünnet'e bağlılık, doğru anlama ve uygulama, manevi korunma ve bid'atlerden uzak durma konuları vurgulanmıştır.`
+
+`Kur'an ve Sünnet'in rehberliğinde hazırlanan bu eserin temel prensiplerini açıkladıktan sonra, şimdi kitabın genel yapısı ve kullanımı hakkında önemli bilgileri içeren giriş bölümüne geçebiliriz.`
+
+`# 2. GİRİŞ`
+
+`Bu bölümde, kitabın içeriğine dair genel bilgiler ve önemli notlar yer almaktadır. Ayetlerin ve surelerin doğru kullanımı için temel prensipler açıklanacaktır.`
+
+`## 2.1. Önemli Notlar`  
+`1. Bu ayetleri okurken niyetinizin halis olması önemlidir`  
+`2. Ayetleri okumadan önce abdest almanız önerilir`  
+`3. Okuma sırasında konsantre olmanız ve manalarını düşünmeniz tavsiye edilir`  
+`4. Düzenli okuma yapmanız önerilir`  
+`5. Ayetleri muska olarak taşımak istiyorsanız, ilgili bölümdeki önerileri dikkate alınız`
+
+`## 2.2. Açıklama`  
+`1. Bu Kur'ân'da seçilmiş ayetler, Diyanet ve Hanefi mezhebi kaynaklarına göre doğrulanmış ayet ve surelerden oluşmaktadır`  
+`2. Her ayet için Arapça metin, Türkçe meali ve Latince okunuşu verilmiştir`  
+`3. Özel telaffuz gerektiren kelimeler için açıklamalar eklenmiştir`  
+`4. Bu muska, korunma ve şifa niyetiyle günlük okunabilir`  
+`5. Ancak unutulmamalıdır ki, asıl koruyucu Allah'tır ve bu ayetler O'nun izniyle etki eder`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde ayetlerin okunması ve uygulanması için gerekli temel bilgiler verilmiş, özellikle niyet, abdest ve düzenli okuma gibi önemli hususlar vurgulanmıştır.`
+
+`Temel prensipleri ve önemli notları açıkladıktan sonra, şimdi bu bilgilerin günlük hayatta nasıl uygulanacağını gösteren pratik kullanım rehberine geçebiliriz.`
+
+`# 3. PRATİK KULLANIM REHBERİ`
+
+`## 3.1. Günlük Okunacak Dualar`  
+`**Rivayet:** Bu program, Hz. Peygamber'in (s.a.v.) günlük uygulamalarına dayanmaktadır. Buhari'de geçen hadislere göre, Hz. Peygamber (s.a.v.) belirli vakitlerde özel sureleri okurdu. (Buhari, Daavat, 64) İmam Gazali, "İhya-u Ulumid-Din" adlı eserinde bu uygulamaların faziletlerini detaylı olarak anlatmıştır.`
+
+`- Sabah: Ayet-el-Kursi (1 kez)`  
+`- Öğle: İhlas Suresi (3 kez)`  
+`- İkindi: Felak ve Nas Sureleri (1'er kez)`  
+`- Akşam: Bakara 285-286 (1 kez)`  
+`- Yatsı: Tüm temel sureler (1'er kez)`
+
+`**Not:** Ayet-el-Kursi, İhlas, Felak ve Nas Surelerinin tam metinleri Bölüm 5'te bulunmaktadır.`
+
+`**Bakara 285-286:**`  
+`آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ`  
+`*Âmener rasûlü bimâ ünzile ileyhi min rabbihî vel mü'minûn. Küllün âmene billâhi ve melâiketihî ve kütübihî ve rusülih. Lâ nüferriku beyne ehadin min rusülih. Ve kâlû semi'nâ ve eta'nâ ğufrâneke rabbenâ ve ileykel masîr*`  
+`(Peygamber, Rabbinden kendisine indirilene iman etti, müminler de (iman ettiler). Her biri Allah'a, meleklerine, kitaplarına, peygamberlerine iman ettiler. "Allah'ın peygamberlerinden hiçbiri arasında ayırım yapmayız. İşittik, itaat ettik. Ey Rabbimiz, affına sığındık! Dönüş sanadır" dediler)`
+
+`لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ`  
+`*Lâ yükellifullâhü nefsen illâ vüs'ahâ. Lehâ mâ kesebet ve aleyhâ mektesebet. Rabbenâ lâ tüâhiznâ in nesînâ ev ahta'nâ. Rabbenâ ve lâ tahmil aleynâ isran kemâ hameltehû alellezîne min kablinâ. Rabbenâ ve lâ tühammilnâ mâ lâ tâkate lenâ bih. Va'fü annâ, vağfir lenâ, verhamnâ. Ente mevlânâ fensurnâ alel kavmil kâfirîn*`  
+`(Allah bir kimseyi ancak gücünün yettiği şeyle yükümlü kılar. Onun kazandığı iyilik kendi yararına, kötülük de kendi zararınadır. "Ey Rabbimiz! Unutur ya da yanılırsak bizi sorumlu tutma. Ey Rabbimiz! Bize, bizden öncekilere yüklediğin gibi ağır yük yükleme. Ey Rabbimiz! Bize gücümüzün yetmediği şeyleri yükleme. Bizi affet, bizi bağışla, bize acı! Sen bizim Mevlâmızsın. Kâfirler topluluğuna karşı bize yardım et!")`
+
+`## 3.2. Özel Durumlar İçin Dualar ve Uygulamalar`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde, özel durumlar için okunması gereken dualar ve uygulamalar ele alınmaktadır. Her bir durum için Hz. Peygamber'in (s.a.v.) tavsiye ettiği sureler ve ayetler, rivayetlerle birlikte sunulmuştur. Ayrıca, bu duaların nasıl ve ne zaman okunması gerektiği konusunda pratik bilgiler verilmiştir.`
+
+`*Rivayet:* Bu zikirler, Hz. Peygamber'in (s.a.v.) özel durumlarda okuduğu dualardır. Tirmizi'de geçen hadislere göre, Hz. Peygamber (s.a.v.) vesvese, korku ve sıkıntı durumlarında özel zikirleri okurdu. (Tirmizi, Daavat, 101) İmam Rabbani, "Mektubat" adlı eserinde bu uygulamaların önemini vurgulamıştır.`
+
+`### Sıkıntılı Anlarda`  
+`**İnşirah Suresi** (7 kez)`  
+`Bu sure tam metin olarak Bölüm 5.6'da yer almaktadır. Lütfen oradan okuyunuz.`
+
+`### Hastalık Durumunda`  
+`**Şuara 80-81** (41 kez)`  
+`وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ`  
+`*Ve izâ meridtü fe hüve yeşfîn*`  
+`(Hastalandığım zaman bana şifa veren O'dur)`
+
+`وَالَّذِي يُمِيتُنِي ثُمَّ يُحْيِينِ`  
+`*Vellezîne yümîtünî sümme yuhyîn*`  
+`(O, beni öldürecek ve sonra diriltecek olandır)`
+
+`### Ruhsal Huzur İçin`  
+`**Rad 28** (33 kez)`  
+`الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ`  
+`*Ellezîne âmenû ve tatmainnü kulûbühüm bi zikrillâh. E lâ bi zikrillâhi tatmainnül kulûb*`  
+`(Onlar, iman edenler ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Dikkat edin, kalpler ancak Allah'ı anmakla huzur bulur)`
+
+`### Maddi Sıkıntılar İçin`  
+`**İbrahim 7** (21 kez)`  
+`وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ`  
+`*Ve iz teezzene rabbüküm le in şekertüm le ezîdenneküm, ve le in kefertüm inne azâbî le şedîd*`  
+`(Rabbiniz şöyle duyurmuştu: "Andolsun, eğer şükrederseniz elbette size nimetimi artırırım. Eğer nankörlük ederseniz, hiç şüphesiz azabım çok şiddetlidir")`
+
+`### Vesvese ve Şeytan'dan Korunma`  
+`**Euzü billahi mineşşeytanirracim** (7 kez)`  
+`أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ`  
+`*Euzü billahi mineşşeytanirracim*`  
+`(Kovulmuş şeytandan Allah'a sığınırım)`
+
+`### Sıkıntı ve Zorluk Anında`  
+`**Hasbünallahü ve ni'mel vekil** (33 kez)`  
+`حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ`  
+`*Hasbünallahü ve ni'mel vekil*`  
+`(Allah bize yeter. O ne güzel vekildir)`
+
+`### Tövbe ve İstiğfar`  
+`**La ilahe illa ente sübhaneke inni küntü minezzalimin** (70 kez)`  
+`لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ`  
+`*La ilahe illa ente sübhaneke inni küntü minezzalimin*`  
+`(Senden başka ilah yoktur. Seni tenzih ederim. Gerçekten ben zalimlerden oldum)`
+
+`### Ağrı ve Sızı İçin`  
+`**Euzü biizzetillahi ve kudretihi min şerri ma ecidü ve uhaziru** (21 kez)`  
+`أَعُوذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ`  
+`*Euzü biizzetillahi ve kudretihi min şerri ma ecidü ve uhaziru*`  
+`(Hissettiğim ve korktuğum şeylerin şerrinden Allah'ın izzet ve kudretine sığınırım)`
+
+`## 3.3. Muska Kullanımı`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde, muska kullanımı ile ilgili temel prensipler ve uygulamalar ele alınmaktadır. Hz. Peygamber'in (s.a.v.) ve sahabenin muska kullanımına dair uygulamaları, fıkhi hükümler ve pratik bilgiler sunulmuştur. Ayrıca, muska hazırlama ve kullanma şartları, dikkat edilmesi gereken hususlar ve uyarılar detaylı olarak açıklanmıştır.`
+
+`**ÖNEMLİ NOT:** Bu bölümde bahsedilen tüm muskaların Arapça metinleri ve sure-ayet bilgileri, kitabın son sayfasında "Muska Metinleri" başlığı altında toplu olarak verilmiştir. Muska hazırlamak isteyenler için kolay kullanım sağlaması amacıyla derlenmiştir.`
+
+`**Genel Rivayet:** Muska kullanımı konusunda İmam Serahsi, "el-Mebsut" adlı eserinde detaylı bilgiler vermiştir. Hz. Peygamber'in (s.a.v.) bazı sahabeye muska yazdığı ve bunların şifa vesilesi olduğu hadislerle sabittir. (Buhari, Tıb, 19)`
+
+`**Temel Muska Çeşitleri:**`
+
+`1. **Koruma Muskası**`  
+   `**Rivayet:** Hz. Aişe'den (r.a.) rivayet edildiğine göre, Hz. Peygamber (s.a.v.) her gece yatağına girdiğinde bu sureleri okur ve ellerine üfleyerek vücudunu mesh ederdi. (Buhari, Fedailü'l-Kur'an, 14)`  
+   `**İçerik:**`  
+   `- Ayet-el-Kursi (Bkz: Bölüm 5.2)`  
+   `- İhlas Suresi (Bkz: Bölüm 5.3)`  
+   `- Felak ve Nas Sureleri (Bkz: Bölüm 5.4 ve 5.5)`  
+   `- Bakara Suresi'nin son iki ayeti (Bkz: Bölüm 6.1)`
+
+`2. **Şifa Muskası**`  
+   `**Rivayet:** Hz. Peygamber'in (s.a.v.) hastalık durumunda bu ayetleri okuduğu rivayet edilmiştir. (Müslim, Selam, 40)`  
+   `**İçerik:**`  
+   `- Şuara 80-81 (Bkz: Bölüm 6.3)`  
+   `- İsra 82:`  
+   `وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ`  
+   `*Ve nünezzilü minel kur'âni mâ hüve şifâün ve rahmetün lil mü'minîn*`  
+   `(Biz Kur'an'dan öyle bir şey indiriyoruz ki o, müminler için şifa ve rahmettir)`  
+     
+   `- Yunus 57:`  
+   `يَا أَيُّهَا النَّاسُ قَدْ جَاءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَاءٌ لِّمَا فِي الصُّدُورِ`  
+   `*Yâ eyyühen nâsü kad câetküm mev'izatün min rabbiküm ve şifâün limâ fis sudûr*`  
+   `(Ey insanlar! Size Rabbinizden bir öğüt, kalplerdekine bir şifa gelmiştir)`
+
+`3. **Huzur Muskası**`  
+   `**Rivayet:** Abdullah ibn Mesud'dan (r.a.) rivayet edildiğine göre, kalp huzuru için bu ayetlerin okunması tavsiye edilmiştir. (Tirmizi, Daavat, 82)`  
+   `**İçerik:**`  
+   `- Rad 28 (Bkz: Bölüm 6.6)`  
+   `- İnşirah 5-6 (Bkz: Bölüm 5.6)`  
+   `- Zümer 53:`  
+   `قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ`  
+   `*Kul yâ ibâdiyellezîne esrefû alâ enfüsihim lâ taknetû min rahmetillâh*`  
+   `(De ki: Ey kendilerinin aleyhine aşırı giden kullarım! Allah'ın rahmetinden ümidinizi kesmeyin)`
+
+`4. **Bereket Muskası**`  
+   `**Rivayet:** Hz. Peygamber'den (s.a.v.) rivayet edildiğine göre, bu ayetleri okuyana rızkında bereket verilir. (Tirmizi, Fedailü'l-Kur'an, 12)`  
+   `**İçerik:**`  
+   `- İbrahim 7 (Bkz: Bölüm 6.9)`  
+   `- Talak 2-3:`  
+   `وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ`  
+   `*Ve men yettekıllâhe yec'al lehû mahracen ve yerzukhu min haysu lâ yahtesib*`  
+   `(Kim Allah'tan korkarsa, Allah ona bir çıkış yolu gösterir ve onu beklemediği yerden rızıklandırır)`
+
+`5. **Aile Saadeti Muskası**`  
+   `**Rivayet:** Hz. Peygamber (s.a.v.), evlenen çiftlere bu ayetleri tavsiye etmiştir. (Ebu Davud, Nikah, 38)`  
+   `**İçerik:**`  
+   `- Furkan 74:`  
+   `رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا`  
+   `*Rabbenâ heb lenâ min ezvâcinâ ve zürriyyâtinâ kurrete a'yünin vec'alnâ lil müttekîne imâmâ*`  
+   `(Rabbimiz! Bize gözümüzü aydınlatacak eşler ve zürriyetler bağışla ve bizi takva sahiplerine önder kıl)`
+
+   `- Rum 21:`  
+   `وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا`  
+   `*Ve min âyâtihî en haleka leküm min enfüsiküm ezvâcen li teskünû ileyhâ*`  
+   `(O'nun ayetlerinden biri de sizin için nefislerinizden eşler yaratmasıdır ki, onlara meyledip huzur bulasınız)`
+
+`6. **Rızık Muskası**`  
+   `**Rivayet:** İbn Abbas'tan (r.a.) rivayet edildiğine göre, rızık genişliği için bu ayetler tavsiye edilmiştir. (Tirmizi, Deavat, 72)`  
+   `**İçerik:**`  
+   `- Talak 2-3 (Yukarıda geçti)`  
+   `- Necm 39:`  
+   `وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ`  
+   `*Ve en leyse lil insâni illâ mâ seâ*`  
+   `(İnsan için ancak çalıştığının karşılığı vardır)`
+
+`7. **Nazar ve Haset Muskası**`  
+   `**Rivayet:** Hz. Peygamber (s.a.v.), nazardan korunmak için bu sureleri tavsiye etmiştir. (Buhari, Tıb, 35)`  
+   `**İçerik:**`  
+   `- Felak ve Nas Sureleri (Bkz: Bölüm 5.4 ve 5.5)`  
+   `- Kalem 51-52:`  
+   `وَإِن يَكَادُ الَّذِينَ كَفَرُوا لَيُزْلِقُونَكَ بِأَبْصَارِهِمْ`  
+   `*Ve in yekâdüllezîne keferû le yüzlikûneke bi ebsârihim*`  
+   `(O inkâr edenler Zikr'i (Kur'an'ı) işittikleri zaman, neredeyse seni gözleriyle devireceklerdi)`
+
+`8. **Evlilik Muskası**`  
+   `**Rivayet:** Hz. Peygamber (s.a.v.), evlilik öncesi ve sonrası için bu ayetleri tavsiye etmiştir. (Ebu Davud, Nikah, 40)`  
+   `**İçerik:**`  
+   `- Nur 32:`  
+   `وَأَنكِحُوا الْأَيَامَىٰ مِنكُمْ وَالصَّالِحِينَ مِنْ عِبَادِكُمْ وَإِمَائِكُمْ`  
+   `*Ve enkihül eyâmâ minküm ves sâlihîne min ibâdiküm ve imâiküm*`  
+   `(İçinizden bekâr olanları, kölelerinizden ve cariyelerinizden uygun olanları evlendirin)`  
+     
+   `- Rum 21:`  
+   `وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا`  
+   `*Ve min âyâtihî en haleka leküm min enfüsiküm ezvâcen li teskünû ileyhâ*`  
+   `(O'nun ayetlerinden biri de sizin için nefislerinizden eşler yaratmasıdır ki, onlara meyledip huzur bulasınız)`
+
+   `- Rahman 46-47:`  
+   `وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ`  
+   `*Ve li men hâfe mekâme rabbihî cennetân*`  
+   `(Rabbinin makamından korkan kimseye iki cennet vardır)`
+
+`**Önemli Notlar:**`  
+`1. Muska yazımında sadece Kur'an ayetleri ve hadis-i şeriflerde geçen dualar kullanılmalıdır (Buhari, Tıb, 17)`  
+`2. Muska içeriğinde anlaşılmayan sembol ve işaretler kullanılmamalıdır (Müslim, Selam, 63)`  
+`3. Muskanın yazımı ve taşınması temizlik şartlarına uygun olmalıdır (Ebu Davud, Taharet, 31)`  
+`4. Muska suya değmeyecek şekilde muhafaza edilmelidir`  
+`5. Muska banyo ve tuvalet gibi yerlere götürülmemelidir`  
+`6. Muskanın etkisinin Allah'ın izniyle olduğuna inanılmalıdır`  
+`7. Muska, tedavi yerine değil, tedaviye yardımcı olarak kullanılmalıdır (Müslim, Selam, 69)`
+
+`**Kullanım Şekli:**`  
+`1. Deri, bez veya kağıt üzerine yazılabilir`  
+`2. Üç kat muşamba ile kaplanmalıdır`  
+`3. Boyunda veya üstte taşınabilir`  
+`4. Yatağın başucuna asılabilir`  
+`5. Evin giriş kapısının üzerine konulabilir`
+
+`**Uyarılar:**`  
+`1. Muska, şirk unsurları içermemelidir`  
+`2. İçeriği bilinmeyen muskalar kullanılmamalıdır`  
+`3. Ticari amaçla muska yazımı doğru değildir`  
+`4. Muska, modern tıbbi tedavinin alternatifi değil, tamamlayıcısıdır`
+
+`**NOT:** Tüm muska metinlerinin Arapça asılları ve sure-ayet bilgileri kitabın son sayfasında "Muska Metinleri" başlığı altında toplu halde sunulmuştur.`
+
+`## 3.4. Özel Günler ve Tekrarlar`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde, özel günlerde okunması gereken sureler ve tekrarlar ele alınmaktadır. Hz. Peygamber'in (s.a.v.) belirli günlerde uyguladığı özel okuma programları ve bunların faziletleri açıklanmıştır.`
+
+`*Rivayet:* Özel günlerdeki tekrarlar, Hz. Peygamber'in (s.a.v.) uygulamalarına dayanmaktadır. Tirmizi'de geçen bir hadise göre, Hz. Peygamber (s.a.v.) belirli günlerde özel sureleri tekrarlardı. (Tirmizi, Daavat, 82) İmam Beydavi, "Envarü't-Tenzil" adlı eserinde bu uygulamaların faziletlerini anlatmıştır.`
+
+`- Pazartesi: 7 kez İhlas Suresi`  
+`- Çarşamba: 3 kez Ayet-el-Kursi`  
+`- Cuma: 41 kez Felak ve Nas Sureleri`  
+`- Pazar: 33 kez Bakara 285-286`
+
+`## 3.5. Zor Durumlar İçin Özel Uygulamalar`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde, zor durumlarda başvurulabilecek özel uygulamalar ve dualar ele alınmaktadır. Hz. Peygamber'in (s.a.v.) ve sahabenin zor durumlarda uyguladığı özel okuma programları, bu durumların üstesinden gelmek için tavsiye edilen sureler ve ayetler detaylı olarak açıklanmıştır.`
+
+`*Rivayet:* Bu uygulamalar, Hz. Peygamber'in (s.a.v.) ve sahabenin zor durumlarda başvurduğu yöntemlerdir. Müslim'de geçen hadislere göre, Hz. Peygamber (s.a.v.) hastalık ve sıkıntı durumlarında özel sureleri belirli sayılarda okurdu. (Müslim, Zikir, 42) İmam Razi, "Mefatihü'l-Gayb" adlı eserinde bu uygulamaların etkilerini açıklamıştır.`
+
+`### Büyü ve Nazar İçin`  
+`**Felak ve Nas Sureleri** (21 gün, günde 7 kez)`  
+`Bu sureler tam metin olarak Bölüm 5.4 ve 5.5'te yer almaktadır. Lütfen oradan okuyunuz.`
+
+`### Hastalık İçin`  
+`**Şuara 80-81** (40 gün, günde 41 kez)`  
+`وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ`  
+`*Ve izâ meridtü fe hüve yeşfîn*`  
+`(Hastalandığım zaman bana şifa veren O'dur)`
+
+`وَالَّذِي يُمِيتُنِي ثُمَّ يُحْيِينِ`  
+`*Vellezîne yümîtünî sümme yuhyîn*`  
+`(O, beni öldürecek ve sonra diriltecek olandır)`
+
+`### Maddi Sıkıntı İçin`  
+`**İbrahim 7** (21 gün, günde 21 kez)`  
+`وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ`  
+`*Ve iz teezzene rabbüküm le in şekertüm le ezîdenneküm, ve le in kefertüm inne azâbî le şedîd*`  
+`(Rabbiniz şöyle duyurmuştu: "Andolsun, eğer şükrederseniz elbette size nimetimi artırırım. Eğer nankörlük ederseniz, hiç şüphesiz azabım çok şiddetlidir")`
+
+`### Ruhsal Huzur İçin`  
+`**Rad 28** (33 gün, günde 33 kez)`  
+`الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ`  
+`*Ellezîne âmenû ve tatmainnü kulûbühüm bi zikrillâh. E lâ bi zikrillâhi tatmainnül kulûb*`  
+`(Onlar, iman edenler ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Dikkat edin, kalpler ancak Allah'ı anmakla huzur bulur)`
+
+`## 3.6. Hanefi-Maturidi Mezhebine Göre Özel Uygulamalar`  
+`**Rivayet:** Bu uygulamalar, Hanefi-Maturidi mezhebinin görüşlerine göre düzenlenmiştir. İmam Maturidi'nin "Kitabü't-Tevhid" adlı eserinde, namaz sonrası ve özel vakitlerdeki zikirlerin önemi vurgulanmıştır. (Buhari, Daavat, 50) İmam Serahsi, "el-Mebsut" adlı eserinde bu uygulamaların fıkhi dayanaklarını açıklamıştır.`
+
+`### Namaz Sonrası`  
+`**Ayet-el-Kursi** (1 kez)`  
+`Bu ayet tam metin olarak Bölüm 5.2'de yer almaktadır. Lütfen oradan okuyunuz.`
+
+`### Oruçluyken`  
+`**İhlas Suresi** (3 kez)`  
+`Bu sure tam metin olarak Bölüm 5.3'te yer almaktadır. Lütfen oradan okuyunuz.`
+
+`### Yatmadan Önce`  
+`**Felak ve Nas Sureleri** (1'er kez)`  
+`Bu sureler tam metin olarak Bölüm 5.4 ve 5.5'te yer almaktadır. Lütfen oradan okuyunuz.`
+
+`### Uyanınca`  
+`**Bakara 285-286** (1 kez)`  
+`Bu ayetler tam metin olarak Bölüm 6.1'de yer almaktadır. Lütfen oradan okuyunuz.`
+
+`## 3.7. Günlük Zikir Programı`  
+`**Rivayet:** Bu program, Hz. Peygamber'in (s.a.v.) günlük zikir uygulamalarına dayanmaktadır. Buhari'de geçen hadislere göre, Hz. Peygamber (s.a.v.) belirli vakitlerde özel zikirleri tekrarlardı. (Buhari, Daavat, 64) İmam Gazali, "İhya-u Ulumid-Din" adlı eserinde bu zikirlerin faziletlerini detaylı olarak anlatmıştır.`
+
+`### Sabah`  
+`**Sübhanallahi ve bihamdihi** (100 kez)`  
+`سُبْحَانَ اللهِ وَبِحَمْدِهِ`  
+`*Sübhanallahi ve bihamdihi*`  
+`(Allah'ı tüm eksikliklerden tenzih eder, O'na hamd ederim)`
+
+`### Öğle`  
+`**La ilahe illallah** (100 kez)`  
+`لَا إِلَهَ إِلَّا اللهُ`  
+`*La ilahe illallah*`  
+`(Allah'tan başka ilah yoktur)`
+
+`### İkindi`  
+`**Allahümme salli ala Muhammed** (100 kez)`  
+`اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ`  
+`*Allahümme salli ala Muhammed*`  
+`(Allah'ım, Muhammed'e salat eyle)`
+
+`### Akşam`  
+`**Estağfirullah** (100 kez)`  
+`أَسْتَغْفِرُ اللهَ`  
+`*Estağfirullah*`  
+`(Allah'tan bağışlanma dilerim)`
+
+`### Yatsı`  
+`**La havle vela kuvvete illa billah** (100 kez)`  
+`لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ`  
+`*La havle vela kuvvete illa billah*`  
+`(Güç ve kuvvet ancak Allah'tandır)`
+
+`# 4. TELAFFUZ VE SURELERİN ÖĞRENİMİ`
+
+`## 4.1. Temel Harflerin Telaffuzu`  
+`- Diyanet Elifbası Tüm Dersler (45 dakikada elifba öğrenin): https://www.youtube.com/watch?v=sIs_VXuzeUE`  
+`- Harflerin İsimleri ve Telaffuzları (Kısa Video): https://www.youtube.com/shorts/KQ-MJNA3MaE`
+
+`## 4.2. Surelerin Okunuşu`  
+`- Fatiha Suresi ve Meali: https://youtu.be/IEisySV2zX4?si=sR-noivZLVoDsWWi`  
+`- Ayet-el-Kursi: https://youtu.be/aeUVuogvpac?si=CcEntSH-h7Y10xiu`  
+`- İhlas Suresi: https://youtu.be/mDupZTHeKXc?si=MejuGXdGB3p8XyLR`  
+`- Felak Suresi: https://youtu.be/Fz5wWM8Hc98?si=nfd8MkBah_oIS_NZ`  
+`- Nas Suresi: https://youtu.be/fwCEqPimNE4?si=-pP9Wo6mYkHfH4XI`
+
+`Telaffuz ve öğrenim konularını ele aldıktan sonra, şimdi en temel sureleri ve anlamlarını detaylı olarak incelemeye başlayabiliriz.`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde harflerin doğru telaffuzu ve surelerin okunuşu için gerekli kaynaklar ve videolar paylaşılmıştır. Temel eğitim materyalleri ve pratik yapma imkanları sunulmuştur.`
+
+`# 5. TEMEL SURELER`
+
+`Bu bölümde, her Müslümanın bilmesi gereken temel sureler ve anlamları yer almaktadır. Her sure için rivayet bilgileri, Arapça metni, okunuşu ve meali verilmiştir.`
+
+`## 5.1. Fatiha Suresi (1:1–7)`  
+`**Rivayet:** Fatiha Suresi, Kur'an'ın en faziletli suresidir. Buhari'de geçen bir hadise göre, Hz. Peygamber (s.a.v.) "Fatiha Suresi, Kur'an'ın en büyük suresidir" buyurmuştur. (Buhari, Fedailü'l-Kur'an, 9) İmam Kurtubi, "el-Camiü li-Ahkami'l-Kur'an" adlı eserinde Fatiha'nın faziletlerini detaylı olarak anlatmıştır. Ayrıca, namazın her rekatında okunması farz olan tek suredir.`
+
+`**Dinlemek için:** https://youtu.be/IEisySV2zX4?si=sR-noivZLVoDsWWi`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ`  
+`*Elhamdülillâhi rabbil âlemîn*`  
+`(Hamd, âlemlerin Rabbi olan Allah'a aittir)`
+
+`الرَّحْمَنِ الرَّحِيمِ`  
+`*Errahmânirrahîm*`  
+`(O, Rahman ve Rahim'dir)`
+
+`مَالِكِ يَوْمِ الدِّينِ`  
+`*Mâlikî yevmiddîn*`  
+`(Din gününün sahibidir)`
+
+`إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ`  
+`*İyyâke na'budu ve iyyâke nesta'în*`  
+`(Ancak sana kulluk eder ve yalnız senden yardım dileriz)`
+
+`اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ`  
+`*Ihdinas-sırâtil mustakîm*`  
+`(Bizi doğru yola ilet)`
+
+`صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ`  
+`*Sırâta lezîne en'amte aleyhim ğayri'l mağdûbi aleyhim ve lâ'd-dâllîn*`  
+`(Kendilerine nimet verdiklerinin yoluna; gazaba uğrayanların ve sapkınlarınkine değil)`
+
+`## 5.2. Ayet-el-Kursi (Bakara 255)`  
+`**Rivayet:** Ayet-el-Kursi, Kur'an'daki en büyük ayettir. Hz. Peygamber (s.a.v.) "Kim yatağına girdiğinde Ayet-el-Kursi'yi okursa, Allah ona bir muhafız melek gönderir ve sabaha kadar şeytan ona yaklaşamaz" buyurmuştur. (Buhari, Fedailü'l-Kur'an, 10)`
+
+`**Dinlemek için:** https://youtu.be/aeUVuogvpac?si=CcEntSH-h7Y10xiu`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ`  
+`*Allâhü lâ ilâhe illâ hüvel hayyül kayyûm*`  
+`(Allah, O'ndan başka ilah olmayan, kendisi var olan, her şeyi ayakta tutan Hayy ve Kayyum'dur)`
+
+`لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ`  
+`*Lâ te'huzühû sinetün velâ nevm*`  
+`(O'nu ne uyku tutar ne de uyuklama)`
+
+`لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ`  
+`*Lehû mâ fîs semâvâti ve mâ fil ard*`  
+`(Göklerde ve yerde ne varsa hepsi O'nundur)`
+
+`مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ`  
+`*Men zellezî yeşfeu indehû illâ bi iznih*`  
+`(O'nun izni olmadan katında şefaat edecek kimdir?)`
+
+`يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ`  
+`*Ya'lemü mâ beyne eydîhim ve mâ halfehüm*`  
+`(O, kullarının önlerinde ve arkalarında ne varsa hepsini bilir)`
+
+`وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ`  
+`*Ve lâ yühîtûne bi şey'in min ilmihî illâ bi mâ şâe*`  
+`(Onlar O'nun ilminden, O'nun dilediği kadarını kavrayabilirler)`
+
+`وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ`  
+`*Vesia kürsiyyühüs semâvâti vel ard*`  
+`(O'nun kürsüsü gökleri ve yeri kucaklamıştır)`
+
+`وَلَا يَئُودُهُ حِفْظُهُمَا`  
+`*Ve lâ yeûdühû hıfzuhümâ*`  
+`(Onları korumak O'na ağır gelmez)`
+
+`وَهُوَ الْعَلِيُّ الْعَظِيمُ`  
+`*Ve hüvel aliyyül azîm*`  
+`(O, yücedir, büyüktür)`
+
+`## 5.3. İhlas Suresi (112:1-4)`  
+`**Rivayet:** İhlas Suresi, Kur'an'ın üçte birine denktir. Hz. Peygamber (s.a.v.) "İhlas Suresi Kur'an'ın üçte birine denktir" buyurmuştur. (Müslim, Müsafirin, 259)`
+
+`**Dinlemek için:** https://youtu.be/mDupZTHeKXc?si=MejuGXdGB3p8XyLR`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`قُلْ هُوَ اللَّهُ أَحَدٌ`  
+`*Kul hüvellâhü ehad*`  
+`(De ki: O Allah birdir)`
+
+`اللَّهُ الصَّمَدُ`  
+`*Allâhüssamed*`  
+`(Allah Samed'dir (Her şey O'na muhtaçtır, O hiçbir şeye muhtaç değildir))`
+
+`لَمْ يَلِدْ وَلَمْ يُولَدْ`  
+`*Lem yelid ve lem yüled*`  
+`(O doğurmamış ve doğmamıştır)`
+
+`وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ`  
+`*Ve lem yekün lehû küfüven ehad*`
+
+`## 5.4. Felak Suresi (113:1-5)`  
+`**Rivayet:** Felak Suresi, kötülüklerden korunmak için en etkili surelerdendir. Hz. Peygamber (s.a.v.) "Bu iki sure (Felak ve Nas) ile korunun, çünkü bunlardan daha etkili bir koruyucu yoktur" buyurmuştur. (Ebu Davud, Tıb, 19)`
+
+`**Dinlemek için:** https://youtu.be/Fz5wWM8Hc98?si=nfd8MkBah_oIS_NZ`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ`  
+`*Kul eûzü bi rabbil felak*`  
+`(De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden)`
+
+`مِن شَرِّ مَا خَلَقَ`  
+`*Min şerri mâ halak*`  
+`(Yarattığı şeylerin şerrinden)`
+
+`وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ`  
+`*Ve min şerri ğâsikin izâ vekab*`  
+`(Karanlığı çöktüğü zaman gecenin şerrinden)`
+
+`وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ`  
+`*Ve min şerrin neffâsâti fil ukad*`  
+`(Düğümlere üfleyen büyücülerin şerrinden)`
+
+`وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ`  
+`*Ve min şerri hâsidin izâ hased*`  
+`(Kıskandığı vakit kıskanç kişinin şerrinden)`
+
+`## 5.5. Nas Suresi (114:1-6)`  
+`**Rivayet:** Nas Suresi, vesveseden korunmak için en etkili suredir. Hz. Peygamber (s.a.v.) "Kim sabah ve akşam üç defa Felak ve Nas surelerini okursa, her şeyden korunmuş olur" buyurmuştur. (Tirmizi, Fedailü'l-Kur'an, 12)`
+
+`**Dinlemek için:** https://youtu.be/fwCEqPimNE4?si=-pP9Wo6mYkHfH4XI`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`قُلْ أَعُوذُ بِرَبِّ النَّاسِ`  
+`*Kul eûzü bi rabbin nâs*`  
+`(De ki: İnsanların Rabbine sığınırım)`
+
+`مَلِكِ النَّاسِ`  
+`*Melikin nâs*`  
+`(İnsanların Melikine (mutlak sahip ve hakimine))`
+
+`إِلَٰهِ النَّاسِ`  
+`*İlâhin nâs*`  
+`(İnsanların İlahına)`
+
+`مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ`  
+`*Min şerril vesvâsil hannâs*`  
+`(O sinsi vesvesecinin şerrinden)`
+
+`الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ`  
+`*Ellezî yüvesvisü fî sudûrin nâs*`  
+`(O ki, insanların göğüslerine vesvese verir)`
+
+`مِنَ الْجِنَّةِ وَ النَّاسِ`  
+`*Minel cinneti ven nâs*`  
+`(Cinlerden ve insanlardan)`
+
+`## 5.6. İnşirah Suresi (94:1-8)`  
+`**Rivayet:** İnşirah Suresi, sıkıntıları gidermek için okunur. Hz. Peygamber (s.a.v.) "Her zorlukla beraber bir kolaylık vardır" ayetini sıkça tekrar ederdi. (Tirmizi, Tefsir, 94)`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ`  
+`*E lem neşrah leke sadrek*`  
+`(Senin göğsünü açıp genişletmedik mi?)`
+
+`وَوَضَعْنَا عَنكَ وِزْرَكَ`  
+`*Ve veda'nâ anke vizrek*`  
+`(Senden yükünü indirmedik mi?)`
+
+`الَّذِي أَنقَضَ ظَهْرَكَ`  
+`*Ellezî engada zahrek*`  
+`(O, sırtını büken yükü)`
+
+`وَرَفَعْنَا لَكَ ذِكْرَكَ`  
+`*Ve refa'nâ leke zikrek*`  
+`(Senin şanını yüceltmedik mi?)`
+
+`فَإِنَّ مَعَ الْعُسْرِ يُسْرًا`  
+`*Fe inne me'al usri yüsrâ*`  
+`(Şüphesiz zorlukla birlikte bir kolaylık vardır)`
+
+`إِنَّ مَعَ الْعُسْرِ يُسْرًا`  
+`*İnne meal usri yüsrâ*`  
+`(Gerçekten, zorlukla birlikte bir kolaylık vardır)`
+
+`فَإِذَا فَرَغْتَ فَانصَبْ`  
+`*Fe izâ ferağte fensab*`  
+`(Boş kaldığında yine kalk (başka bir işe koyul))`
+
+`وَإِلَىٰ رَبِّكَ فَارْغَب`  
+`*Ve ilâ rabbike fergab*`  
+`(Ve yalnız Rabbine yönel)`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde Fatiha, Ayet-el-Kursi, İhlas, Felak, Nas ve İnşirah sureleri detaylı olarak açıklanmıştır. Her sure için kaynak bilgileri, faziletleri ve doğru okunuşları verilmiştir.`
+
+`# 6. KORUMA VE ŞİFA AYETLERİ`
+
+`## 6.1. Bakara 285-286`  
+`**Rivayet:** Bakara Suresi'nin son iki ayeti, Hz. Peygamber'in (s.a.v.) her gece okuduğu ve ümmetine tavsiye ettiği ayetlerdir. Buhari'de geçen bir hadise göre, "Kim geceleyin Bakara Suresi'nin son iki ayetini okursa, o iki ayet ona yeter." buyurmuştur. (Buhari, Fedailü'l-Kur'an, 27) İmam Nevevi, "el-Ezkar" adlı eserinde bu ayetlerin faziletlerini detaylı olarak anlatmıştır.`
+
+`**Dinlemek için:** https://youtu.be/YZUBkJ6T6Vo?si=p-vQkQkBGLmQPnSN`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`آمَنَ الرَّسُولُ بِمَا أُنزِلَ إِلَيْهِ مِن رَّبِّهِ وَالْمُؤْمِنُونَ ۚ كُلٌّ آمَنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِ ۚ وَقَالُوا سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ الْمَصِيرُ`  
+`*Âmener rasûlü bimâ ünzile ileyhi min rabbihî vel mü'minûn. Küllün âmene billâhi ve melâiketihî ve kütübihî ve rusülih. Lâ nüferriku beyne ehadin min rusülih. Ve kâlû semi'nâ ve eta'nâ ğufrâneke rabbenâ ve ileykel masîr*`  
+`(Peygamber, Rabbinden kendisine indirilene iman etti, müminler de (iman ettiler). Her biri Allah'a, meleklerine, kitaplarına, peygamberlerine iman ettiler. "Allah'ın peygamberlerinden hiçbiri arasında ayırım yapmayız. İşittik, itaat ettik. Ey Rabbimiz, affına sığındık! Dönüş sanadır" dediler)`
+
+`لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنتَ مَوْلَانَا فَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ`  
+`*Lâ yükellifullâhü nefsen illâ vüs'ahâ. Lehâ mâ kesebet ve aleyhâ mektesebet. Rabbenâ lâ tüâhiznâ in nesînâ ev ahta'nâ. Rabbenâ ve lâ tahmil aleynâ isran kemâ hameltehû alellezîne min kablinâ. Rabbenâ ve lâ tühammilnâ mâ lâ tâkate lenâ bih. Va'fü annâ, vağfir lenâ, verhamnâ. Ente mevlânâ fensurnâ alel kavmil kâfirîn*`  
+`(Allah bir kimseyi ancak gücünün yettiği şeyle yükümlü kılar. Onun kazandığı iyilik kendi yararına, kötülük de kendi zararınadır. "Ey Rabbimiz! Unutur ya da yanılırsak bizi sorumlu tutma. Ey Rabbimiz! Bize, bizden öncekilere yüklediğin gibi ağır yük yükleme. Ey Rabbimiz! Bize gücümüzün yetmediği şeyleri yükleme. Bizi affet, bizi bağışla, bize acı! Sen bizim Mevlâmızsın. Kâfirler topluluğuna karşı bize yardım et!")`
+
+`## 6.2. İsra 82`  
+`**Rivayet:** İsra Suresi'nin 82. ayeti, Kur'an'ın şifa olduğunu bildiren en önemli ayetlerdendir. İmam Kurtubi, "el-Camiü li-Ahkami'l-Kur'an" adlı eserinde bu ayetin tefsirinde, Kur'an'ın hem manevi hem de maddi hastalıklara şifa olduğunu belirtmiştir. İmam Gazali de "İhya-u Ulumid-Din" adlı eserinde bu ayetin şifa boyutunu detaylı olarak açıklamıştır.`
+
+`**Dinlemek için:** https://youtu.be/YhEv5oqBsB0?si=gQwXtFnBHkM9Qqm2`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا خَسَارًا`  
+`*Ve nünezzilü minel kur'âni mâ hüve şifâün ve rahmetün lil mü'minîn ve lâ yezîdüz zâlimîne illâ hasârâ*`  
+`(Biz Kur'an'dan öyle bir şey indiriyoruz ki o, müminler için şifa ve rahmettir; zalimlerin ise ancak ziyanını artırır)`
+
+`## 6.3. Şuara 80-81`  
+`**Rivayet:** Şuara Suresi'nin 80-81. ayetleri, Hz. İbrahim'in (a.s.) duasını içeren ve şifa için okunan önemli ayetlerdendir. İmam Taberi, "Camiu'l-Beyan" adlı tefsirinde bu ayetlerin şifa için okunmasının faziletini anlatmıştır. İmam Razi de "Mefatihü'l-Gayb" adlı eserinde bu ayetlerin hikmetlerini detaylı olarak açıklamıştır.`
+
+`**Dinlemek için:** https://youtu.be/YZUBkJ6T6Vo?si=p-vQkQkBGLmQPnSN`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ`  
+`*Ve izâ meridtü fe hüve yeşfîn*`  
+`(Hastalandığım zaman bana şifa veren O'dur)`
+
+`وَالَّذِي يُمِيتُنِي ثُمَّ يُحْيِينِ`  
+`*Vellezîne yümîtünî sümme yuhyîn*`  
+`(O, beni öldürecek ve sonra diriltecek olandır)`
+
+`## 6.4. Müminun 98-99`  
+`**Rivayet:** Müminun Suresi'nin 98-99. ayetleri, şeytanın vesvesesinden ve şerrinden korunmak için okunan önemli ayetlerdendir. İmam Kurtubi, "el-Camiü li-Ahkami'l-Kur'an" adlı eserinde bu ayetlerin şeytandan korunmadaki önemini vurgulamıştır. İmam Nevevi de "el-Ezkar" adlı eserinde bu ayetlerin faziletlerini anlatmıştır.`
+
+`**Dinlemek için:** https://youtu.be/YZUBkJ6T6Vo?si=p-vQkQkBGLmQPnSN`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ`  
+`*Ve kul rabbi eûzü bike min hemezâtiş şeyâtîn*`  
+`(Ve de ki: "Rabbim! Şeytanların kışkırtmalarından sana sığınırım")`
+
+`وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ`  
+`*Ve eûzü bike rabbi en yahdurûn*`  
+`(Onların yanımda bulunmalarından da sana sığınırım, Rabbim!)`
+
+`## 6.5. Furkan 74-75`  
+`**Rivayet:** Furkan Suresi'nin 74-75. ayetleri, aile ve zürriyetin korunması için okunan önemli dualardandır. İmam Taberi, "Camiu'l-Beyan" adlı tefsirinde bu ayetlerin aile saadetindeki önemini vurgulamıştır. İmam Gazali de "İhya-u Ulumid-Din" adlı eserinde bu duanın faziletlerini anlatmıştır.`
+
+`**Dinlemek için:** https://youtu.be/YZUBkJ6T6Vo?si=p-vQkQkBGLmQPnSN`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا`  
+`*Vellezîne yekûlûne rabbenâ heb lenâ min ezvâcinâ ve zürriyyâtinâ kurrete a'yünin vec'alnâ lil müttekîne imâmâ*`  
+`(Onlar: "Rabbimiz! Bize gözümüzü aydınlatacak eşler ve zürriyetler bağışla ve bizi takva sahiplerine önder kıl" derler)`
+
+`أُولَٰئِكَ يُجْزَوْنَ الْغُرْفَةَ بِمَا صَبَرُوا وَيُلَقَّوْنَ فِيهَا تَحِيَّةً وَسَلَامًا`  
+`*Ülâike yüczevnel ğurfete bimâ saberû ve yülakkavne fîhâ tahiyyeten ve selâmâ*`  
+`(İşte onlar, sabretmelerine karşılık cennetin en yüksek makamlarıyla mükâfatlandırılacaklar ve orada esenlik dileği ve selamla karşılanacaklardır)`
+
+`## 6.6. Rad 28`  
+`**Rivayet:** Rad Suresi'nin 28. ayeti, kalplerin huzur ve sükûn bulması için okunan önemli ayetlerdendir. İmam Kurtubi, "el-Camiü li-Ahkami'l-Kur'an" adlı eserinde bu ayetin kalp huzuru için önemini vurgulamıştır. İmam Gazali de "İhya-u Ulumid-Din" adlı eserinde zikrin kalbe etkisini bu ayetle açıklamıştır.`
+
+`**Dinlemek için:** https://youtu.be/YZUBkJ6T6Vo?si=p-vQkQkBGLmQPnSN`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ`  
+`*Ellezîne âmenû ve tatmainnü kulûbühüm bi zikrillâh. E lâ bi zikrillâhi tatmainnül kulûb*`  
+`(Onlar, iman edenler ve kalpleri Allah'ı anmakla huzura kavuşanlardır. Dikkat edin, kalpler ancak Allah'ı anmakla huzur bulur)`
+
+`## 6.7. İnşirah 5-6`  
+`**Rivayet:** İnşirah Suresi'nin 5-6. ayetleri, zorluk ve sıkıntılardan kurtuluş için okunan önemli ayetlerdendir. İmam Taberi, "Camiu'l-Beyan" adlı tefsirinde bu ayetlerin sıkıntılardan kurtuluştaki önemini vurgulamıştır. İmam Razi de "Mefatihü'l-Gayb" adlı eserinde bu ayetlerin müjdesini detaylı olarak açıklamıştır.`
+
+`**Dinlemek için:** https://youtu.be/YZUBkJ6T6Vo?si=p-vQkQkBGLmQPnSN`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`فَإِنَّ مَعَ الْعُسْرِ يُسْرًا`  
+`*Fe inne meal usri yüsrâ*`  
+`(Şüphesiz zorlukla beraber bir kolaylık vardır)`
+
+`إِنَّ مَعَ الْعُسْرِ يُسْرًا`  
+`*İnne meal usri yüsrâ*`  
+`(Gerçekten, zorlukla beraber bir kolaylık vardır)`
+
+`فَإِذَا فَرَغْتَ فَانصَبْ`  
+`*Fe izâ ferağte fensab*`  
+`(Boş kaldığında yine kalk (başka bir işe koyul))`
+
+`وَإِلَىٰ رَبِّكَ فَارْغَب`  
+`*Ve ilâ rabbike fergab*`  
+`(Ve yalnız Rabbine yönel)`
+
+`## 6.8. Al-İmran 103`  
+`**Rivayet:** Al-İmran Suresi'nin 103. ayeti, birlik ve beraberlik için okunan önemli ayetlerdendir. İmam Kurtubi, "el-Camiü li-Ahkami'l-Kur'an" adlı eserinde bu ayetin toplumsal birlik için önemini vurgulamıştır. İmam Maturidi de "Te'vilatü'l-Kur'an" adlı eserinde bu ayetin hikmetlerini detaylı olarak açıklamıştır.`
+
+`**Dinlemek için:** https://youtu.be/YZUBkJ6T6Vo?si=p-vQkQkBGLmQPnSN`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا ۚ وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِ إِخْوَانًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ النَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَهْتَدُونَ`  
+`*Va'tasimû bi hablillâhi cemîan ve lâ teferrakû, vezkurû ni'metellâhi aleykum iz kuntum a'dâen fe ellefe beyne kulûbikum fe asbahtum bi ni'metihî ihvânâ, ve kuntum alâ şefâ hufratin minen nâri fe enkazekum minhâ, kezâlike yubeyyinullâhu lekum âyâtihî leallekum tehtedûn*`  
+`(Hep birlikte Allah'ın ipine (Kur'an'a) sımsıkı sarılın. Parçalanıp bölünmeyin. Allah'ın size olan nimetini hatırlayın. Hani sizler birbirinize düşmanlar idiniz de O, kalplerinizi birleştirmişti. İşte O'nun bu nimeti sayesinde kardeşler olmuştunuz. Yine siz, bir ateş çukurunun tam kenarında idiniz de O sizi oradan kurtarmıştı. İşte Allah size ayetlerini böyle apaçık bildiriyor ki doğru yola eresiniz)`
+
+`## 6.9. İbrahim 7`  
+`**Rivayet:** İbrahim Suresi'nin 7. ayeti, şükür ve nimetin artması için okunan önemli ayetlerdendir. İmam Taberi, "Camiu'l-Beyan" adlı tefsirinde bu ayetin şükrün önemini vurgulamıştır. İmam Gazali de "İhya-u Ulumid-Din" adlı eserinde şükrün faziletlerini bu ayetle açıklamıştır.`
+
+`**Dinlemek için:** https://youtu.be/YZUBkJ6T6Vo?si=p-vQkQkBGLmQPnSN`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ`  
+`*Ve iz teezzene rabbüküm le in şekertüm le ezîdenneküm, ve le in kefertüm inne azâbî le şedîd*`  
+`(Rabbiniz şöyle duyurmuştu: "Andolsun, eğer şükrederseniz elbette size nimetimi artırırım. Eğer nankörlük ederseniz, hiç şüphesiz azabım çok şiddetlidir")`
+
+`## 6.10. Taha 124-126`  
+`**Rivayet:** Taha Suresi'nin 124-126. ayetleri, manevi sıkıntılardan korunmak için okunan önemli ayetlerdendir. İmam Razi, "Mefatihü'l-Gayb" adlı tefsirinde bu ayetlerin manevi hayattaki önemini vurgulamıştır. İmam Kurtubi de "el-Camiü li-Ahkami'l-Kur'an" adlı eserinde bu ayetlerin hikmetlerini detaylı olarak açıklamıştır.`
+
+`**Dinlemek için:** https://youtu.be/YZUBkJ6T6Vo?si=p-vQkQkBGLmQPnSN`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`وَمَنْ أَعْرَضَ عَن ذِكْرِي فَإِنَّ لَهُ مَعِيشَةً ضَنكًا وَنَحْشُرُهُ يَوْمَ الْقِيَامَةِ أَعْمَىٰ`  
+`*Ve lev cealnâhu zikrî fe inne lehû meîşeten danken ve nahşuruhû yevmel kıyâmeti a'mâ*`  
+`(Kim de benim zikrimden (Kur'an'dan) yüz çevirirse, mutlaka ona dar bir geçim vardır. Bir de onu kıyamet gününde kör olarak haşrederiz)`
+
+`قَالَ رَبِّ لِمَ حَشَرْتَنِي أَعْمَىٰ وَقَدْ كُنتُ بَصِيرًا`  
+`*Kâle rabbi lime haşertenî a'mâ ve kad küntü basîrâ*`  
+`(O da şöyle der: "Rabbim! Beni niçin kör olarak haşrettin? Oysa ben hakikaten görür idim")`
+
+`قَالَ كَذَٰلِكَ أَتَتْكَ آيَاتُنَا فَنَسِيتَهَا ۖ وَكَذَٰلِكَ الْيَوْمَ تُنسَىٰ`  
+`*Kâle kezâlike etetke âyâtünâ fe nesîtehâ, ve kezâlikel yevme tünsâ*`  
+`(Allah, "İşte böyle. Çünkü sana ayetlerimiz geldi de sen onları unuttun. Bu gün de sen öylece unutulursun" der)`
+
+`## 6.11. Yasin 82 ve Rahman 33`  
+`**Rivayet:** Bu ayetler, Allah'ın kudretini ve her şeye kadir olduğunu anlatan önemli ayetlerdendir. İmam Taberi ve İmam Kurtubi tefsirlerinde bu ayetlerin koruyucu özelliklerini vurgulamışlardır.`
+
+`**Yasin 82:**`  
+`إِنَّمَا أَمْرُهُ إِذَا أَرَادَ شَيْئًا أَن يَقُولَ لَهُ كُن فَيَكُونُ`  
+`*İnnemâ emruhû izâ erâde şey'en en yekûle lehû kün fe yekûn*`  
+`(Bir şeyi dilediği zaman, O'nun emri o şeye ancak "Ol!" demektir. O da hemen oluverir)`
+
+`**Rahman 33:**`  
+`يَا مَعْشَرَ الْجِنِّ وَالْإِنسِ إِنِ اسْتَطَعْتُمْ أَن تَنفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانفُذُوا ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَانٍ`  
+`*Yâ ma'şeral cinni vel insi inisteta'tum en tenfüzû min aktâris semâvâti vel ardı fenfüzû, lâ tenfüzûne illâ bi sultân*`  
+`(Ey cin ve insan toplulukları! Göklerin ve yerin sınırlarını aşıp geçmeye gücünüz yetiyorsa, haydi geçin! Ama (tarafımızdan verilmiş) bir güç olmadıkça geçemezsiniz)`
+
+`## 6.12. Fussilet 44-46`  
+`**Rivayet:** Fussilet Suresi'nin 44-46. ayetleri, Kur'an'ın hidayet ve şifa kaynağı olduğunu anlatan önemli ayetlerdendir. İmam Taberi, "Camiu'l-Beyan" adlı tefsirinde bu ayetlerin Kur'an'ın şifa özelliğini vurguladığını belirtmiştir. İmam Razi de "Mefatihü'l-Gayb" adlı eserinde bu ayetlerin hikmetlerini detaylı olarak açıklamıştır.`
+
+`**Dinlemek için:** https://youtu.be/YZUBkJ6T6Vo?si=p-vQkQkBGLmQPnSN`
+
+`بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ`  
+`*Bismillâhirrahmânirrahîm*`  
+`(Rahman ve Rahim olan Allah'ın adıyla)`
+
+`وَلَوْ جَعَلْنَاهُ قُرْآنًا أَعْجَمِيًّا لَّقَالُوا لَوْلَا فُصِّلَتْ آيَاتُهُ ۖ أَأَعْجَمِيٌّ وَعَرَبِيٌّ ۗ قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ ۖ وَالَّذِينَ لَا يُؤْمِنُونَ فِي آذَانِهِمْ وَقْرٌ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُولَٰئِكَ يُنَادَوْنَ مِن مَّكَانٍ بَعِيدٍ`  
+`*Ve lev cealnâhu kur'ânen a'cemiyyen le kâlû lev lâ fussilet âyâtüh, e a'cemiyyün ve arabiyy, kul hüve lillezîne âmenû hüden ve şifâ', vellezîne lâ yü'minûne fî âzânihim vakrun ve hüve aleyhim amâ, ülâike yünâdevne min mekânin baîd*`  
+`(Eğer biz onu yabancı dilden bir Kur'an yapsaydık onlar mutlaka, "Onun ayetleri genişçe açıklanmalı değil miydi? Bir Arap'a yabancı dilden (kitap) olur mu?" derlerdi. De ki: "O, inananlar için bir hidayet ve şifadır. İnanmayanların kulaklarında ağırlık vardır ve Kur'an onlara kapalıdır. (Sanki) onlara uzak bir yerden sesleniliyor (da anlamıyorlar)")`
+
+`وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَاخْتُلِفَ فِيهِ ۗ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ لَقُضِيَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِي شَكٍّ مِّنْهُ مُرِيبٍ`  
+`*Ve lekad âteynâ mûsel kitâbe fahtülife fîh, ve lev lâ kelimetün sebekat min rabbike le kudiye beynehüm, ve innehüm le fî şekkin minhü murîb*`  
+`(Andolsun, biz Mûsâ'ya Kitab'ı (Tevrat'ı) vermiştik de onda ayrılığa düşülmüştü. Eğer daha önce Rabbinden bir söz geçmemiş olsaydı, aralarında derhal hüküm verilirdi. Şüphesiz onlar Kur'an hakkında derin bir şüphe içindedirler)`
+
+`مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ ۖ وَمَنْ أَسَاءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّامٍ لِّلْعَبِيدِ`  
+`*Men amile sâlihan fe li nefsih, ve men esâe fe aleyhâ, ve mâ rabbüke bi zallâmin lil abîd*`  
+`(Kim iyi bir iş yaparsa kendi lehinedir. Kim de kötülük yaparsa kendi aleyhinedir. Rabbin, kullara (zerre kadar) zulmedici değildir)`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde on iki farklı ayet grubu incelenmiş, her birinin koruyucu ve şifa verici özellikleri açıklanmıştır. Ayetlerin doğru okunuşu ve kullanım şekilleri detaylandırılmıştır.`
+
+`# 7. GÜNLÜK ZİKİRLER`
+
+`## 7.1. Sübhanallahi ve bihamdihi`  
+`**Rivayet:** Hz. Peygamber (s.a.v.) "Kim sabah ve akşam yüz defa 'Sübhanallahi ve bihamdihi' derse, kıyamet günü hiç kimse onun getirdiğinden daha faziletli bir amelle gelemez" buyurmuştur. (Müslim, Zikir, 28)`
+
+`سُبْحَانَ اللهِ وَبِحَمْدِهِ`  
+`*Sübhanallahi ve bihamdihi*`  
+`(Allah'ı hamd ile tesbih ederim)`
+
+`## 7.2. La ilahe illallah`  
+`**Rivayet:** Hz. Peygamber (s.a.v.) "En faziletli zikir 'La ilahe illallah', en faziletli dua 'Elhamdülillah'tır" buyurmuştur. (Tirmizi, Dua, 9)`
+
+`لَا إِلَهَ إِلَّا اللَّهُ`  
+`*La ilahe illallah*`  
+`(Allah'tan başka ilah yoktur)`
+
+`## 7.3. Allahümme salli ala Muhammed`  
+`**Rivayet:** Hz. Peygamber (s.a.v.) "Kim bana bir defa salat getirirse, Allah ona on salat eder" buyurmuştur. (Müslim, Salat, 70)`
+
+`اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ`  
+`*Allahümme salli ala Muhammed*`  
+`(Allah'ım! Muhammed'e salat eyle)`
+
+`## 7.4. Estağfirullah`  
+`**Rivayet:** Hz. Peygamber (s.a.v.) "Vallahi ben günde yetmiş defadan fazla Allah'tan bağışlanma diler ve O'na tövbe ederim" buyurmuştur. (Buhari, Daavat, 3)`
+
+`أَسْتَغْفِرُ اللهَ`  
+`*Estağfirullah*`  
+`(Allah'tan bağışlanma dilerim)`
+
+`## 7.5. La havle vela kuvvete illa billah`  
+`**Rivayet:** Hz. Peygamber (s.a.v.) "Bu söz cennet hazinelerinden bir hazinedir" buyurmuştur. (Buhari, Daavat, 50)`
+
+`<div dir="rtl">`  
+`لا حول ولا قوة إلا بالله`  
+`</div>`
+
+`*Okunuşu:* Lâ havle ve lâ kuvvete illâ billâh`  
+`_(Anlamı: Güç ve kuvvet ancak Allah'tandır)_`
+
+`**Faziletleri:**`  
+`1. Cennet hazinelerinden bir hazinedir`  
+`2. Zorlukları kolaylaştırır`  
+`3. Sıkıntıları giderir`  
+`4. Kalbe kuvvet verir`
+
+`**Okunma Vakti ve Adedi:**`  
+`- Sabah ve akşam 100'er defa`  
+`- Sıkıntılı anlarda 33 defa`  
+`- Her namazdan sonra 10 defa`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde beş temel zikir formülü, bunların faziletleri ve okunma vakitleri açıklanmıştır. Her zikir için kaynak bilgileri ve pratik uygulama önerileri sunulmuştur.`
+
+`# 8. ÖZEL DURUMLAR İÇİN ZİKİRLER`
+
+`## 8.1. Euzü billahi mineşşeytanirracim`  
+`**Rivayet:** Bu zikir, şeytandan korunmak için en etkili zikirlerdendir. Hz. Peygamber (s.a.v.) "Şeytan vesvese verdiğinde Allah'a sığının" buyurmuştur. (Buhari, Bed'ül-Halk, 11)`
+
+`أَعُوذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيمِ`  
+`*Euzü billahi mineşşeytanirracim*`  
+`(Kovulmuş şeytandan Allah'a sığınırım)`
+
+`## 8.2. Hasbünallahü ve ni'mel vekil`  
+`**Rivayet:** Bu zikir, sıkıntı ve zorluk anlarında okunması tavsiye edilen zikirlerdendir. Hz. İbrahim (a.s.) ateşe atıldığında bu sözü söylemiştir. (Buhari, Tefsir, 3)`
+
+`حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ`  
+`*Hasbünallahü ve ni'mel vekil*`  
+`(Allah bize yeter. O ne güzel vekildir)`
+
+`## 8.3. La ilahe illa ente sübhaneke inni küntü minezzalimin`  
+`**Rivayet:** Bu zikir, Hz. Yunus'un (a.s.) balığın karnında okuduğu duadır. Hz. Peygamber (s.a.v.) "Bu dua ile dua eden her Müslümanın duası kabul olunur" buyurmuştur. (Tirmizi, Daavat, 81)`
+
+`لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ`  
+`*La ilahe illa ente sübhaneke inni küntü minezzalimin*`  
+`(Senden başka ilah yoktur. Seni tesbih ederim. Gerçekten ben zalimlerden oldum)`
+
+`## 8.4. Euzü biizzetillahi ve kudretihi min şerri ma ecidü ve uhaziru`  
+`**Rivayet:** Bu zikir, hastalık ve ağrı durumlarında okunması tavsiye edilen zikirlerdendir. Hz. Peygamber (s.a.v.) "Kim bir ağrı hissettiğinde bu duayı okursa, Allah o ağrıyı giderir" buyurmuştur. (Müslim, Selam, 67)`
+
+`أَعُوذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ`  
+`*Euzü biizzetillahi ve kudretihi min şerri ma ecidü ve uhaziru*`  
+`(Hissettiğim ve korktuğum şeylerin şerrinden Allah'ın izzet ve kudretine sığınırım)`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde dört özel zikir formülü incelenmiş, her birinin hangi durumlarda ve nasıl kullanılacağı açıklanmıştır. Zikirler için rivayet bilgileri ve uygulama önerileri verilmiştir.`
+
+`# 9. KAPANIŞ`
+
+`Bu eserde, Kur'an-ı Kerim'den seçilmiş koruyucu ayetler ve şifa duaları bir araya getirilmiştir. Her bir ayet ve dua, güvenilir kaynaklardan alınmış ve İslam alimlerinin görüşleriyle desteklenmiştir.`
+
+`Unutulmamalıdır ki, bu ayetlerin ve duaların etkisi, okuyanın niyetine, imanına ve Allah'a olan teslimiyetine bağlıdır. Ayrıca, modern tıbbi tedavileri ihmal etmemek ve bu ayetleri tamamlayıcı olarak kullanmak önemlidir.`
+
+`Allah'tan dileğimiz, bu eserin tüm Müslümanlara faydalı olması ve manevi şifaya vesile olmasıdır.`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde kitabın genel bir özeti sunulmuş, ayetlerin ve duaların etkili kullanımı için önemli hatırlatmalar yapılmıştır.`
+
+`# 10. KAYNAKÇA`
+
+`## 10.1. Kur'an-ı Kerim ve Mealleri`  
+`- Diyanet İşleri Başkanlığı Meali`  
+`- Elmalılı Hamdi Yazır Meali`  
+`- Ömer Nasuhi Bilmen Meali`
+
+`## 10.2. Hadis Kaynakları`  
+`- Sahih-i Buhari`  
+`- Sahih-i Müslim`  
+`- Sünen-i Tirmizi`  
+`- Sünen-i Ebu Davud`  
+`- el-Mu'cemü'l-Kebir (Taberani)`
+
+`## 10.3. Fıkıh Kaynakları`  
+`- el-Mebsut (İmam Serahsi)`  
+`- Bedaiü's-Sanai (İmam Kasani)`  
+`- el-Hidaye (İmam Merginani)`
+
+`## 10.4. Tefsir Kaynakları`  
+`- Camiu'l-Beyan (İmam Taberi)`  
+`- Mefatihü'l-Gayb (İmam Razi)`  
+`- el-Camiü li-Ahkami'l-Kur'an (İmam Kurtubi)`  
+`- Envarü't-Tenzil (İmam Beydavi)`  
+`- Te'vilatü'l-Kur'an (İmam Maturidi)`
+
+`## 10.5. Tasavvuf Kaynakları`  
+`- İhya-u Ulumid-Din (İmam Gazali)`  
+`- Mektubat (İmam Rabbani)`  
+`- Fütuhat-ı Mekkiyye (İbn Arabi)`
+
+`## 10.6. Modern Kaynaklar`  
+`- Diyanet İslam Ansiklopedisi`  
+`- TDV İslam Ansiklopedisi`  
+`- İslam'da Dua ve Zikir (Prof. Dr. Ali Osman Ateş)`  
+`- Kur'an'da Şifa Ayetleri (Prof. Dr. Hayrettin Karaman)`
+
+`## 10.7. İnternet Kaynakları`  
+`- Diyanet İşleri Başkanlığı Resmi Web Sitesi (www.diyanet.gov.tr)`  
+`- İSAM İslami Araştırmalar Merkezi (www.isam.org.tr)`  
+`- Hadis.uk (www.hadis.uk)`  
+`- Sorularla İslamiyet (www.sorularlaislamiyet.com)`
+
+`**Bölüm Özeti:**`  
+`Bu bölümde yedi farklı kategoride kaynaklar listelenmiş, her bir kaynağın türü ve önemi belirtilmiştir.`
+
+`AÇIKLAMA: Aşağıdaki ayetler Koruma, Şifa, Huzur, Bereket, Aile, Rızık, Nazar ve Evlilik için Kuran-ı Kerim'den seçilmiş ayetlerin birleştirilmiş halidir. Her ayetin yanında hangi sure ve ayet olduğu belirtilmiştir.`
+
+`╔══════════════════════╗`  
+`║  بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ          ║`  
+`║  اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ ║`  
+`║  لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي ║`  
+`║  السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي║`  
+`║  يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا║`  
+`║  بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ║`  
+`║  بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ ║`  
+`║  كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ ║`  
+`║  حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ ۞ ⟵ 2:255║`  
+`╠══════════════════════╣`  
+`║  قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝    ║`  
+`║  لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ ║`  
+`║  كُفُوًا أَحَدٌ ۞ ⟵ 112:1-4║`  
+`╠══════════════════════╣`  
+`║  قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ ۝ مِن شَرِّ مَا   ║`  
+`║  خَلَقَ ۝ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ۝ وَمِن  ║`  
+`║  شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ۝ وَمِن شَرِّ ║`  
+`║  حَاسِدٍ إِذَا حَسَدَ ۞ ⟵ 113:1-5    ║`  
+`╠══════════════════════╣`  
+`║  قُلْ أَعُوذُ بِرَبِّ النَّاسِ ۝ مَلِكِ النَّاسِ  ║`  
+`║  ۝ إِلَٰهِ النَّاسِ ۝ مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ║`  
+`║  ۝ الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ ۝ مِنَ ║`  
+`║  الْجِنَّةِ وَ النَّاسِ ۞ ⟵ 114:1-6   ║`  
+`╠══════════════════════╣`  
+`║  وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ ۝ وَالَّذِي  ║`  
+`║  يُمِيتُنِي ثُمَّ يُحْيِينِ ۞ ⟵ 26:80-81   ║`  
+`╠══════════════════════╣`  
+`║  وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ║`  
+`║  لِّلْمُؤْمِنِينَ ۙ وَلَا يَزِيدُ الظَّالِمِينَ إِلَّا ║`  
+`║  خَسَارًا ۞ ⟵ 17:82             ║`  
+`╠══════════════════════╣`  
+`║  الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ║`  
+`║  ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ ۞ ⟵ 13:28║`  
+`╠══════════════════════╣`  
+`║  فَإِنَّ مَعَ الْعُسْرِ يُسْرًا ۝ إِنَّ مَعَ الْعُسْرِ ۞║`  
+`║  يُسْرًا ⟵ 94:5-6           ║`  
+`╠══════════════════════╣`  
+`║  وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ  ║`  
+`║  لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ  ║`  
+`║  عَذَابِي لَشَدِيدٌ ۞ ⟵ 14:7    ║`  
+`╠══════════════════════╣`  
+`║  وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا وَيَرْزُقْهُ ║`  
+`║  مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى اللَّهِ║`  
+`║  فَهُوَ حَسْبُهُ ۚ إِنَّ اللَّهَ بَالِغُ أَمْرِهِ ۚ قَدْ ║`  
+`║  جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ قَدْرًا ۞ ⟵ 65:2-3║`  
+`╠══════════════════════╣`
+
+`NOT: Bu ayetler büyü veya sihir amaçlı değil, sadece şifa ve koruma niyetiyle okunmalıdır.`  
+`Bu metinler sadece referans amaçlıdır. Muska hazırlarken bölüm 3.3'teki kurallara uyulmalıdır.`
+
